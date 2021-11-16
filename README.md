@@ -6,5 +6,3 @@ Hayır, windows için cmd'nin terminal görünüşlü hali diyebiliriz. Sudo kom
 
 # Nasıl indirebilirim ?
 Windows : https://mega.nz/file/COAhUCzC#bHTFHRVLIVhxlNhyvJpkiPmcgkUNoixqUb68dogfVuY
- Linux : yakında.
-  Mac OS : yakında.
