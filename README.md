@@ -1,10 +1,10 @@
 # nim-bash-app
 Nim ile basit bir bash görünüm uygulaması, açılır açılmaz bir tuşa basıp enter'a basarsanız renkli oluyor. 
 
-#Gerçek terminal mi?
+# Gerçek terminal mi?
 Hayır, windows için cmd'nin terminal görünüşlü hali diyebiliriz. Sudo komutları çalışmamaktadır.
 
-#Nasıl indirebilirim ?
+# Nasıl indirebilirim ?
 Windows : https://mega.nz/file/COAhUCzC#bHTFHRVLIVhxlNhyvJpkiPmcgkUNoixqUb68dogfVuY
-Linux : yakında.
-Mac OS : yakında.
+ Linux : yakında.
+  Mac OS : yakında.
